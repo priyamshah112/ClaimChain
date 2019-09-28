@@ -74,3 +74,4 @@ see Project Report [here](https://github.com/devanshslnk/ClaimChain/blob/master/
 
 -------------------------------------------
 
+### An Internship Project at KJSCE IT Dept. under guidance of Prof. Yogita Borse and Prof. Deepti Patole.
