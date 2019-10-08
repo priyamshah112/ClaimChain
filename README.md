@@ -54,11 +54,6 @@
 - node app.js
 ```
 
-------------------------------------------
-
-### Additional Details
-
-see Project Report [here](https://github.com/devanshslnk/ClaimChain/blob/master/ClaimChain%20Report.pdf)
 
 ------------------------------------------
 ### Contributing
